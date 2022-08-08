@@ -60,6 +60,20 @@ h1, h4, h2 {
   border-radius: 10px;
 }
 
-.gift-img:hover {
+#gift-img-happy:hover {
   background-image: url("images/happy.gif");
+}
+
+.gift2-img {
+  background-image: url("images/gift-cover.jpg");
+  background-size: cover;
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+}
+
+#gift-img-hot:hover {
+  background-image: url("images/hot.gif");
 }
