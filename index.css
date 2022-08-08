@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: 'Happy Monkey', cursive;
-  background-color: #a2d2ff;
+  background-color: #EFB0C9;
   color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -15,9 +15,15 @@ h1, h4, h2 {
 #bff-img {
   width: 150px;
   border-radius: 50%;
-  border: 6px solid #EFB0C9;
+  border: 6px solid #a2d2ff;
 }
 
 h2, h4 {
-  background-color: #EFB0C9;
+  background-color: #a2d2ff;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
