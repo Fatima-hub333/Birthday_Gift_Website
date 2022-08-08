@@ -37,3 +37,21 @@ h1, h4, h2 {
   flex-direction: column;
   align-items: center;
 }
+
+.gift-section {
+  margin-top: 50px;
+}
+
+.gift-title {
+  margin-bottom: 10px;
+}
+
+.gift-hint {
+  margin-top: 0;
+}
+
+.gift-img {
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+}
