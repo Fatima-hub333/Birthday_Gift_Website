@@ -18,8 +18,18 @@ h1, h4, h2 {
   border: 6px solid #a2d2ff;
 }
 
-h2, h4 {
+#bdy-age {
   background-color: #a2d2ff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 15px 0px 10px 0px;
+}
+
+#bdy-date{
+  background-color: #a2d2ff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-top: 0;
 }
 
 #header {
