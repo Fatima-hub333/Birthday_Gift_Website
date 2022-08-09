@@ -85,3 +85,21 @@ h1, h4, h2 {
 #gift-img-badass:hover {
  background-image: url("https://media.giphy.com/media/WoRz0xf3fUBWTWXUJ0/giphy-downsized-large.gif");
 }
+
+#gift-img-cheers {
+  height: 200px;
+}
+
+#gift-img-cheers:hover {
+ background-image: url("https://media.giphy.com/media/mFSEfZlTrgX3CD150c/giphy.gif");
+}
+
+#footer {
+  width: 400px;
+  margin: 40px auto 20px;
+  font-style: italic;
+}
+
+a {
+  color: white;
+}
