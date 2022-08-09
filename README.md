@@ -7,10 +7,10 @@ Birthday Gift Website which you can used for your friend, family member birthday
 - JavaScript
 - Stylelint, Web Hint, Lighthouse
 
-![screenshot](images/)
+<!-- ![screenshot](images/) -->
 
 ## [LiveDemo] 
-()
+(https://gregarious-meringue-72ad5e.netlify.app)
 
 ## Getting Started
 To get a local copy up and running, follow the steps in Setup below.
